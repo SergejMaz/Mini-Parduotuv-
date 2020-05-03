@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzd_MiniShop_Sergej", "Uzd_MiniShop_Sergej\Uzd_MiniShop_Sergej.csproj", "{874FF833-B002-4778-A474-9274BFFEFEDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniShopUnitTest", "SiuntuSkaiciavimoUnitTest\MiniShopUnitTest.csproj", "{574177DC-F06B-476E-99D8-0A5D5B26C47D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874FF833-B002-4778-A474-9274BFFEFEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874FF833-B002-4778-A474-9274BFFEFEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874FF833-B002-4778-A474-9274BFFEFEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874FF833-B002-4778-A474-9274BFFEFEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574177DC-F06B-476E-99D8-0A5D5B26C47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574177DC-F06B-476E-99D8-0A5D5B26C47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574177DC-F06B-476E-99D8-0A5D5B26C47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574177DC-F06B-476E-99D8-0A5D5B26C47D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827E180A-9B09-41BC-93C3-6BBDD38651BF}
+	EndGlobalSection
+EndGlobal
